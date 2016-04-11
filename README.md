@@ -1,6 +1,6 @@
 # vim-profile
 
-To setup, clone repo to home directory. Once done, create a soft link between `.vim/.vimrc` and `~/.vimrc` using:
+To setup, simply clone the repo to your home directory. Once it's cloned, create a soft link between `.vim/.vimrc` and `~/.vimrc` using the following command:
 
 `ln -s .vim/.vimrc ~/.vimrc`
 
